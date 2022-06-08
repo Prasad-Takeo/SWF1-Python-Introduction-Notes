@@ -1,0 +1,89 @@
+Machine or Binary Language : Low lvel Programming Language
+------------------------------------------------------------
+
+00010101011 001110101010
+
+-------------------------------
+HLP:
+------
+C
+C++
+Java
+Python
+Go
+Ruby
+C#
+R
+JavaScript
+----------------------------------------------------------
+-> Python is a general purose High level programming language.
+-> Python was developed by Guido Van Rossum was in 1989 while wotking at National Reasearch institute at Neitherlands.
+-> But officially Python was available to puble in 1991.
+
+-> Python is easy to learn:
+--------------------------------
+
+WAP to print "Hello World":
+----------------------------
+Using C:
+===========
+
+#include<stdio.h>
+
+void main()
+{
+	printf("Hello World");
+}
+
+-------------------------------
+Using C++:
+===========
+
+#include<stdio.h>
+
+void main()
+{
+	cout<< "Hello World";
+}
+-------------------------------
+Using Java:
+===========
+
+public Class Demo
+{
+
+ public static void main(String[] args)
+	{
+		System.out.print("Hello World");
+	}
+
+}
+
+Using Python:
+=============
+print("Hello World")
+
+============================================
+Where we can use Python:
+-------------------------
+1. For developing Desktop applicaton.
+2. For developing Web applicaton.
+3. For developing DATABASE applicaton.
+4. For networking applicaton.
+5. For Data Analysis applicaton.
+6. Machine Learning
+7. Artificial Inteligence
+8. IOT(Internet Of Things)
+
+We cannot devel0p mobile application using Python:
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
